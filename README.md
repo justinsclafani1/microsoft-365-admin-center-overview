@@ -55,6 +55,7 @@ Assign administrative permissions to a Microsoft 365 user account.
 
 <p align="center">
 <img width="830" height="334" alt="Active User" src="https://github.com/user-attachments/assets/f664f03f-97e5-4a41-8cf9-b90afb648740" />
+<img width="551" height="377" alt="User Roles Selected" src="https://github.com/user-attachments/assets/c8538f4c-71ac-46a6-a315-68d9980541cc" />
 
 </p>
 
