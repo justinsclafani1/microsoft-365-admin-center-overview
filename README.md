@@ -54,7 +54,7 @@ Assign administrative permissions to a Microsoft 365 user account.
 </p>
 
 <p align="center">
-<img width="830" height="334" alt="Active User" src="https://github.com/user-attachments/assets/f664f03f-97e5-4a41-8cf9-b90afb648740" />
+<img width="830" height="334" alt="Active User #1" src="https://github.com/user-attachments/assets/f664f03f-97e5-4a41-8cf9-b90afb648740" />
 <img width="551" height="377" alt="User Roles Selected" src="https://github.com/user-attachments/assets/c8538f4c-71ac-46a6-a315-68d9980541cc" />
 
 </p>
@@ -83,7 +83,9 @@ Reset the password for an existing Microsoft 365 user account.
 </p>
 
 <p align="center">
-Insert screenshot here
+<img width="824" height="333" alt="Active User #2" src="https://github.com/user-attachments/assets/88422393-420a-465e-ac64-f30523618633" />
+<img width="695" height="366" alt="Password Reset Options" src="https://github.com/user-attachments/assets/88647c12-5a2a-4d04-9943-3f8c650c67e1" />
+
 </p>
 
 <br />
