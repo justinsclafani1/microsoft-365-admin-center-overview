@@ -108,7 +108,7 @@ Confirm that the password reset was successful by signing in with the updated cr
 
 <p align="center">
 <img width="322" height="227" alt="User Sign In" src="https://github.com/user-attachments/assets/61c687e7-b4b4-41e8-af40-bd98919f4815" /><br />
-<img width="318" height="344" alt="09 - Update Password" src="https://github.com/user-attachments/assets/903dbf03-95d7-4847-b72b-2978ef198cef" />
+<img width="318" height="344" alt="Update Password" src="https://github.com/user-attachments/assets/903dbf03-95d7-4847-b72b-2978ef198cef" />
 <img width="957" height="377" alt="User Account Home" src="https://github.com/user-attachments/assets/39e4c918-dd75-472f-9f4f-9d5d1033edf5" />
 
 </p>
