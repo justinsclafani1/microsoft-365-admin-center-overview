@@ -48,7 +48,7 @@ Assign administrative permissions to a Microsoft 365 user account.
 1. Navigate to <b>Users</b> → <b>Active Users</b>.<br />
 2. Select the desired user account.<br />
 3. Open <b>Manage Roles</b>.<br />
-4. Choose the appropriate administrative role.<br />
+4. Choose the desired administrative roles.<br />
 5. Review the assigned permissions.<br />
 6. Save the changes.<br />
 </p>
