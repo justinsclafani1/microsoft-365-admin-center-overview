@@ -30,7 +30,8 @@ Access Microsoft 365 and navigate to the Admin Center.
 </p>
 
 <p align="center">
-Insert screenshot here
+<img width="958" height="388" alt="Admin Center Dashboard" src="https://github.com/user-attachments/assets/4b3b4306-fdcc-4aa1-981a-fb9ff3cc1274" />
+
 </p>
 
 <br />
@@ -53,7 +54,8 @@ Assign administrative permissions to a Microsoft 365 user account.
 </p>
 
 <p align="center">
-Insert screenshot here
+<img width="830" height="334" alt="Active User" src="https://github.com/user-attachments/assets/f664f03f-97e5-4a41-8cf9-b90afb648740" />
+
 </p>
 
 <br />
