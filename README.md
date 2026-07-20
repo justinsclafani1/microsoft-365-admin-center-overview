@@ -6,7 +6,7 @@ This project demonstrates common Microsoft 365 administrative tasks using the Mi
 
 <h2>Prerequisites</h2>
 
-- Microsoft 365 Business Account/Subscription
+- Microsoft 365 Business Account/Subscription (Trial)
 
 <h2>Task 1 – Sign in to Microsoft 365 and Assign Roles</h2>
 
@@ -54,7 +54,7 @@ Assign administrative permissions to a Microsoft 365 user account.
 </p>
 
 <p align="center">
-<img width="830" height="334" alt="Active User #1" src="https://github.com/user-attachments/assets/f664f03f-97e5-4a41-8cf9-b90afb648740" />
+<img width="830" height="334" alt="User Account - Role Assignment" src="https://github.com/user-attachments/assets/f664f03f-97e5-4a41-8cf9-b90afb648740" />
 <img width="551" height="377" alt="User Roles Selected" src="https://github.com/user-attachments/assets/c8538f4c-71ac-46a6-a315-68d9980541cc" />
 
 </p>
@@ -83,7 +83,7 @@ Reset the password for an existing Microsoft 365 user account.
 </p>
 
 <p align="center">
-<img width="824" height="333" alt="Active User #2" src="https://github.com/user-attachments/assets/88422393-420a-465e-ac64-f30523618633" />
+<img width="824" height="333" alt="User Account - Password Reset" src="https://github.com/user-attachments/assets/88422393-420a-465e-ac64-f30523618633" />
 <img width="695" height="366" alt="Password Reset Options" src="https://github.com/user-attachments/assets/88647c12-5a2a-4d04-9943-3f8c650c67e1" />
 <img width="692" height="250" alt="Password Reset Complete" src="https://github.com/user-attachments/assets/1ae80b2e-9354-4173-8eb3-799c59736ebc" />
 
