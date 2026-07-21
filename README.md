@@ -25,8 +25,6 @@ Access Microsoft 365 and navigate to the Admin Center.
 4. Locate common administrative sections, including:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;• Users<br />
 &nbsp;&nbsp;&nbsp;&nbsp;• Active Users<br />
-&nbsp;&nbsp;&nbsp;&nbsp;• Roles<br />
-&nbsp;&nbsp;&nbsp;&nbsp;• Settings<br />
 </p>
 
 <p align="center">
