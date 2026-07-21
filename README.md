@@ -6,7 +6,7 @@ This project demonstrates common Microsoft 365 administrative tasks using the Mi
 
 <h2>Prerequisites</h2>
 
-- Microsoft 365 Business Account/Subscription (Trial)
+- Microsoft 365 Business Standard Trial
 
 <h2>Task 1 – Sign in to Microsoft 365 and Assign Roles</h2>
 
